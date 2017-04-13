@@ -1,0 +1,13 @@
+title = "Golang Microservice Default Configuration"
+
+[microservice]
+name = "Yodle Golang Microservice Template"
+description = "This is a template that can be used to deploy microservices in Golang in Yodle architecture."
+
+[routing]
+ip = "0.0.0.0"
+port = "8083" 
+healthCheckStatusUp = "UP"
+
+
+
